@@ -15,7 +15,11 @@
 /log/*.log
 /tmp
 
+<<<<<<< HEAD
 # Ignore other unneeded files.
+=======
+# Ignore otherunneeded files.
+>>>>>>> e816745cf8c8761e8a3ba69c580067d835609d94
 doc/
 *.swp
 *~
@@ -23,3 +27,7 @@ doc/
 .DS_Store
 .idea
 .secret
+<<<<<<< HEAD
+=======
+
+>>>>>>> e816745cf8c8761e8a3ba69c580067d835609d94
